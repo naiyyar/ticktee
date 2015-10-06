@@ -1,0 +1,15 @@
+development:
+  host: localhost
+  adapter: postgresql
+  pool: 5
+  database: ticketee
+  username: postgres
+  password: q1w2e3r4t5
+
+test:
+  host: localhost
+  adapter: postgresql
+  pool: 5
+  database: ticketee
+  username: postgres
+  password: q1w2e3r4t5
